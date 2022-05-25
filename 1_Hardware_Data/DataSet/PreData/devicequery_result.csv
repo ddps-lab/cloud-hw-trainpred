@@ -1,0 +1,14 @@
+features,g5,g4dn,p3,p100
+Total amount of global memory(MBytes),22731.9,15109.8,16160.5,16280.9
+Multiprocessors,80,40,80,56
+CUDA Cores/MP,128,64,64,64
+CUDA Cores,10240,2560,5120,3584
+GPU Max Clock rate(MHz),1710,1590,1530,1328.5
+Memory Clock rate,6251,5001,877,715
+Memory Bus Width,384.0,256.0,4096.0,4096.0
+L2 Cache Size,6291456,4194304,6291456,4194304
+Total shared memory per multiprocessor,102400,65536,98304,65536
+Maximum number of threads per multiprocessor,1536,1024,2048,2048
+Concurrent copy and kernel execution copy engines,2,3,2,2
+Device has ECC support,Disabled,Enabled,Enabled,Enabled
+Memory Bandwidth,2400384.0,1280256.0,3592192.0,3592192.0
